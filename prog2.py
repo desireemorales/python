@@ -1,0 +1,4 @@
+a = input ("enter a:")
+b = input ("enter b:")
+c=((a**2)+(b**2))**0.5
+print ("the longest side is ", c)
